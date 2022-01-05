@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/860b1ab0-53a9-4a2a-9f2e-cc062a6704b4/resourceGroups/phatproxyserver/providers/Microsoft.Web/sites/phatproxyserver",
+    "appService.deploySubpath": "."
+}
